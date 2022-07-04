@@ -61,7 +61,7 @@
 							<h1 class="section-title site-title">
 								Hey, What's up!
 							</h1>
-							<p class="lead>">I am Yan Naing, I am running a start-up IT business, mainly focus on transforming SMEs business idea to action, bringing them from offline to online business space. Provide techinical consultation to transform from tranditional marketing to digital marketing world sucessfully. I have five years of total experiences working as System Engineer and Software Engineer at oversea and two years of working in IT management position at MNC, back in Yangon.  </p>
+							<p class="lead>">I am Yan Naing, I am running a start-up IT business, mainly focus on transforming SMEs business idea to action, bringing them from offline to online business space. Provide techinical consultation to transform from tranditional marketing to digital marketing world sucessfully. I have five years of total experiences working as System Engineer and Software Engineer at oversea and two years of working in IT management position at MNC,Yangon.  </p>
 							
 							<a href="#contact" class="btn btn-primary">Get Quote</a>
 						</header>
@@ -80,7 +80,7 @@
 					<div class="col12">
 						<header class="section-header">
 							<h1 class="section-title">My Skills</h1>
-							<p class="lead">I have all the "know hows" to get all the job done. I always bear in mind that knowledge on hardskill and 
+							<p class="lead">I believe "know hows" play pivotal role to ensure all the job done. I always bear in mind that knowledge on hardskill and 
 							softskill are critical for the greater good.
 							Guaranted <strong>agile mindset</strong> and <strong>transparent communication</strong> will be embeded into product development through delivery. </p>
 						</header>
@@ -100,14 +100,12 @@
 					</div>
 					<div class="col4 feature-item text-center">
 						<i class="fa fa-connectdevelop feature-icon"></i>
-						<h3 class="feature-title">Systems</h3>
+						<h3 class="feature-title">Operating Systems</h3>
 						<p class="feature-description">
 						<i class="devicon-windows8-original">Windows Server</i>
 						<i class="devicon-linux-plain colored">Linux Server</i>
 						<i class="fa fa-sitemap">Cisco</i>
-						<i class="devicon-heroku-plain">Heroku</i>
 						<i class="devicon-docker-plain">Docker</i> 
-						
 						</p>
 					</div>
 					<div class="col4 feature-item text-center">
@@ -121,11 +119,8 @@
 							<li class="list-inline-item "><i class="devicon-wordpress-plain"></i><span class="framework-text"> Wordpress </span> </li>
 							<li class="list-inline-item "><i class="devicon-python-plain-wordmark"></i><span class="framework-text"> Matplotlib, Pandas , Numpy & Scrapy </span></li>
 						</ul>
-						</ul>
-						</ul>
 					</div>
 				</div>
-	
 			</div>
 		</section>
 		<setion class="section" id="portfolio">
@@ -197,66 +192,7 @@
 								</div>
 							</div>
 						</div>
-					</div>
-					<div class="row no-gutter portfolio">
-						<div class="col4 portfolio-item">
-							<a data-fancybox="gallery" data-src="#004" href="">
-								<img src="Template/images/portfolio/manu-small.png">
-							</a>
-							<div style="display:none;" class="portfolio-pop" id="004">
-								<div class="row">
-									<div class="col8">
-										<img src="Template/images/portfolio/manu-big.png">
-									</div>
-									<div class="col4">
-										<h3 class="Project Title">Legend manu</h3>
-										<div class="lead project-description">
-											<p>This the story about manu fans. :D</p>
-										</div>
-										
-									</div>
-								</div>
-							</div>
-						</div>
-						<div class="col4 portfolio-item">
-							<a data-fancybox="gallery" data-src="#005" href="">
-								<img src="Template/images/portfolio/manu-small.png">
-							</a>
-							<div style="display:none;" class="portfolio-pop" id="005">
-								<div class="row">
-									<div class="col8">
-										<img src="Template/images/portfolio/manu-big.png">
-									</div>
-									<div class="col4">
-										<h3 class="Project Title">Legend manu</h3>
-										<div class="lead project-description">
-											<p>This the story about manu fans. :D</p>
-										</div>
-										
-									</div>
-								</div>
-							</div>
-						</div>
-						<div class="col4 portfolio-item">
-							<a data-fancybox="gallery" data-src="#006" href="">
-								<img src="Template/images/portfolio/manu-small.png">
-							</a>
-							<div style="display:none;" class="portfolio-pop" id="006">
-								<div class="row">
-									<div class="col8">
-										<img src="Template/images/portfolio/manu-big.png">
-									</div>
-									<div class="col4">
-										<h3 class="Project Title">Legend manu</h3>
-										<div class="lead project-description">
-											<p>This the story about manu fans. :D</p>
-										</div>
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>			
-				</div>
+					</div>		
 			</div>
 		</setion>
 		<section class="section" id="contact">
@@ -265,7 +201,7 @@
 					<div class="col6">
 						<header class="section-header">
 							<h1 class="section-title text-left">Hire Me.</h1>
-							<p class="lead">Your business is starved to transform and reep benefits from digital tranformation. Co-creation to inovate your product with digital support is on our hand </p>
+							<p class="lead"><b>Upgrade the business via digital tranformation. Co-creation and inovation of great product and services happen now. </b></p>
 						</header>
 						<ul class="list-inline">
 							<li class="list-inline-item"><i class="fa fa-map-marker"></i>YN Freelancer </li>
