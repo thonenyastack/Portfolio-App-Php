@@ -115,8 +115,9 @@ body, p, h1, h2, h3, h4, h5, h6, input, select, textarea{
 
 .feature-title {
 	text-align: center;
-	position: fixed;
-	font-size: 28px;
+	position: relative;
+	display: inline;
+	font-size: 20px;
 	padding-bottom: 10px;
 	border-bottom: 1px solid #ee44ee;
 }
