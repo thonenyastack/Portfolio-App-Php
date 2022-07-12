@@ -59,9 +59,17 @@
 					<div class="col7">
 						<header class="section-header">
 							<h1 class="section-title site-title">
-								Hey, What's up!
+								Hey, What's up!	
 							</h1>
-							<p class="lead>">I am Yan Naing, I am running a start-up IT business, mainly focus on transforming SMEs business idea to action, bringing them from offline to online business space. Provide techinical consultation to transform from tranditional marketing to digital marketing world sucessfully. I have five years of total experiences working as System Engineer and Software Engineer at oversea and two years of working in IT management position at MNC,Yangon.  </p>
+							<p class="lead>">
+								I am Yan Naing 
+								&lt; <span style="color:brown">Software developer</span> &gt; <a href="#portfolio" style="color:navy;"> <b>Portfolio at Galance</b> </a>
+								<br>
+								Had been looking for opportunity to run or work at the start-up IT business, mainly focus on transforming 
+								SMEs business idea to action,bringing them from offline to online business space. 
+								Provide techinical consultation to transform tranditional marketing to digital marketing world sucessfully.
+								With 6 years of total job experiences as System Engineer and Software Engineer at oversea and
+								two years of working in IT management position at MNC,Yangon.  </p>
 							
 							<a href="#contact" class="btn btn-primary">Get Quote</a>
 						</header>
@@ -80,8 +88,8 @@
 					<div class="col12">
 						<header class="section-header">
 							<h1 class="section-title">My Skills</h1>
-							<p class="lead">I believe "know hows" play pivotal role to ensure all the job done. I always bear in mind that knowledge on hardskill and 
-							softskill are critical for the greater good.
+							<p class="lead">I believe "know hows" play pivotal role to ensure sucessful project delivery. I always bear in mind that knowledge on hardskill and 
+							softskill are critical for crafting the great products.
 							Guaranted <strong>agile mindset</strong> and <strong>transparent communication</strong> will be embeded into product development through delivery. </p>
 						</header>
 					</div>
@@ -129,7 +137,11 @@
 					<div class="col12">
 						<header class="section-header">
 							<h2 class="section-title">My Portfolio</h2>
-							<p class="lead text-center">The project I have been delivered</p>
+							<p class="lead text-center">
+								<i class="fa fa-briefcase" aria-hidden="true">Work Experiences</i>
+								<i class="fa fa-building-o" aria-hidden="true">Domain Knowledge</i> 
+							    <i class="fa fa-truck" aria-hidden="true">Projects</i>
+							</p>
 						</header>
 					</div>
 				</div>
@@ -137,17 +149,18 @@
 					<div class="row no-gutter portfolio">
 						<div class="col4 portfolio-item">
 							<a data-fancybox="gallery" data-src="#001" href="">
-								<img src="Template/images/portfolio/manu-small.png">
+								<img src="Template/images/portfolio/WebScrapingProject.png">
 							</a>
 							<div style="display:none;" class="portfolio-pop" id="001">
 								<div class="row">
 									<div class="col8">
-										<img src="Template/images/portfolio/manu-big.png">
+										<img src="Template/images/portfolio/WebScrapingProject.png">
 									</div>
 									<div class="col4">
-										<h3 class="Project Title">Legend manu</h3>
+										<h3 class="project-title">Python Web Scraping Tool </h3>
 										<div class="lead project-description">
-											<p>This the story about manu fans. :D</p>
+											<p>Python based Web Crawling and data mining tool to collect data from various Domains 
+												and build DB and generate insight information figures </p>
 										</div>
 										
 									</div>
@@ -156,17 +169,17 @@
 						</div>
 						<div class="col4 portfolio-item">
 							<a data-fancybox="gallery" data-src="#002" href="">
-								<img src="Template/images/portfolio/manu-small.png">
+								<img src="Template/images/portfolio/WebDevNWordPress.png">
 							</a>
 							<div style="display:none;" class="portfolio-pop" id="002">
 								<div class="row">
 									<div class="col8">
-										<img src="Template/images/portfolio/manu-big.png">
+										<img src="Template/images/portfolio/WebDevNWordPress.png">
 									</div>
 									<div class="col4">
-										<h3 class="Project Title">Legend manu</h3>
+										<h3 class="project-title">WordPress and PHP based Projects</h3>
 										<div class="lead project-description">
-											<p>This the story about manu fans. :D</p>
+											<p>Built a few Websites based on PHP,but also have experince on Wordpress plugin writing for WooCommerce</p>
 										</div>
 										
 									</div>
@@ -175,19 +188,18 @@
 						</div>
 						<div class="col4 portfolio-item">
 							<a data-fancybox="gallery" data-src="#003" href="">
-								<img src="Template/images/portfolio/manu-small.png">
+								<img src="Template/images/portfolio/Domains.png">
 							</a>
 							<div style="display:none;" class="portfolio-pop" id="003">
 								<div class="row">
 									<div class="col8">
-										<img src="Template/images/portfolio/manu-big.png">
+										<img src="Template/images/portfolio/Domains.png">
 									</div>
 									<div class="col4">
-										<h3 class="Project Title">Legend manu</h3>
+										<h3 class="project-title">Domain Knowledge</h3>
 										<div class="lead project-description">
-											<p>This the story about manu fans. :D</p>
+											<p>Have worked as IT Professional in different industries with unique domain and business area</p>
 										</div>
-										
 									</div>
 								</div>
 							</div>
@@ -213,10 +225,10 @@
 						<form action="process.php" method="POST" class="dark contact-form">
 							<h3 class="form-title">Contact Me</h3>
 							<div class="form-field">
-								<input class="text" type="text" name="name" placeholder="name" required>
+								<input class="text" type="text" name="name" placeholder="Name" required>
 							</div>
 							<div class="form-field">
-								<input class="text email" type="email" name="email" placeholder="email" required>
+								<input class="text email" type="email" name="email" placeholder="Email" required>
 							</div>
 							<div class="form-field">
 								<textarea class="textarea" type="" name="message" placeholder="Tell me about your project" required></textarea>
@@ -226,7 +238,6 @@
 							</div>
 							<input class="btn btn-submit" type="submit" value="Get Quote">
 							<div id="status-messages"></div>
-
 						</form>
 					</div>
 				</div>
