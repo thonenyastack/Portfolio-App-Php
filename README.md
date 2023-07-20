@@ -12,4 +12,4 @@
 
 ## Demo
 
-The Portfolio app including is being hosted on  Railway at [link](https://yannaing-portofolio.up.railway.app/)
+The Portfolio app including is being hosted on  Railway at [link](https://yannaing-portfolio.up.railway.app/)
